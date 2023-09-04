@@ -1,0 +1,10 @@
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon Decoder.csproj.AssemblyReference.cache
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon_Decoder.Properties.Resources.resources
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon Decoder.csproj.GenerateResource.cache
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon Decoder.csproj.CoreCompileInputs.cache
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\bin\Debug\Settlemoon Decoder.exe.config
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\bin\Debug\Settlemoon Decoder.exe
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\bin\Debug\Settlemoon Decoder.pdb
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon Decoder.exe
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon Decoder.pdb
+C:\Settlemoon Decoder\0.1\Settlemoon Decoder\Settlemoon Decoder\obj\Debug\Settlemoon_Decoder.Decoder.resources
